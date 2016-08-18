@@ -1,0 +1,1676 @@
+[INFO_|07/14 06:06:15|StartupInit.preInitialization:144] Version: 2.6.0
+[INFO_|07/14 06:06:15|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/14 06:06:15|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=17.4, Free=5.4, Used=11.9 [2%]
+[INFO_|07/14 06:06:17|RTConfigContextListener.contextInitialized:246] java.awt.headless=false
+[INFO_|07/14 06:18:17|StartupInit.preInitialization:144] Version: 2.6.0
+[INFO_|07/14 06:18:17|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/14 06:18:17|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=17.3, Free=5.4, Used=11.9 [2%]
+[INFO_|07/14 06:18:19|RTConfigContextListener.contextInitialized:246] java.awt.headless=false
+[INFO_|07/14 06:44:44|RTConfigContextListener.contextDestroyed:278] Remaining pool threads [0]: 0
+[INFO_|07/14 06:44:44|RTConfigContextListener.contextDestroyed:281] ... Servlet Context destroyed: TrackWar
+[INFO_|07/14 06:44:44|RTConfigContextListener.contextDestroyed:282] -----------------------------------------------
+[INFO_|07/14 09:26:06|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/14 09:26:06|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/14 09:26:06|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=36.2, Free=13.3, Used=22.8 [5%]
+[INFO_|07/14 09:26:08|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/14 09:27:11|Track._doWork:1156] Account does not exist: sysadmin
+[INFO_|07/14 09:27:12|Track._doWork:1166] Login[Failed]: Domain=default Account=sysadmin User= Time=1468502831 IPAddr=197.182.37.241
+[INFO_|07/14 09:31:41|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 197.182.37.241]
+[INFO_|07/14 09:31:41|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=43.4, Free=12.7, Used=30.7 [6%]
+[INFO_|07/14 09:31:41|Audit.userLoginOK:172] Login(OK): Time=1468503101 Domain=default Account=sysadmin User=admin IP=197.182.37.241
+[ERROR|07/14 09:33:42|SendMail.GetSendMailArgs_class:114] Class 'org.opengts.util.SendMailArgs': java.lang.ClassNotFoundException: org.opengts.util.SendMailArgs
+[WARN_|07/14 09:33:42|SendMail.getEMailAddress:1625] Unable to get SendMailArgs class (javax.mail.jar installed?)
+[WARN_|07/14 09:33:42|AccountInfo.writePage:225] Contact EMail address is invalid: info@techisoft.co.ke
+[ERROR|07/14 09:33:42|SendMail.GetSendMailArgs_class:114] Class 'org.opengts.util.SendMailArgs': java.lang.ClassNotFoundException: org.opengts.util.SendMailArgs
+[INFO_|07/14 09:33:58|SysAdminAccounts$1.countSession:277] Logged-in User: sysadmin,admin
+[INFO_|07/15 07:51:46|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.103]
+[INFO_|07/15 07:51:46|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=43.4, Free=11.3, Used=32.1 [7%]
+[INFO_|07/15 07:51:46|Audit.userLoginOK:172] Login(OK): Time=1468583506 Domain=default Account=sysadmin User=admin IP=196.6.218.103
+[INFO_|07/18 14:33:42|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.97.64.185]
+[INFO_|07/18 14:33:42|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=43.4, Free=9.9, Used=33.5 [7%]
+[INFO_|07/18 14:33:42|Audit.userLoginOK:172] Login(OK): Time=1468866822 Domain=default Account=sysadmin User=admin IP=196.97.64.185
+[INFO_|07/18 14:34:13|SysAdminAccounts$1.countSession:277] Logged-in User: sysadmin,admin
+[INFO_|07/19 08:05:34|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/19 08:05:35|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/19 08:05:35|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/19 08:05:35|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/19 08:05:36|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/19 08:05:36|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/19 08:05:36|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=55.2, Free=14.6, Used=40.7 [8%]
+[INFO_|07/19 08:05:38|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/19 08:06:02|Track._doWork:1156] Account does not exist: kamasteve
+[INFO_|07/19 08:06:02|Track._doWork:1166] Login[Failed]: Domain=default Account=kamasteve User= Time=1468929962 IPAddr=196.6.218.103
+[INFO_|07/19 08:06:12|Track._doWork:1156] Account does not exist: kamasteve
+[INFO_|07/19 08:06:12|Track._doWork:1166] Login[Failed]: Domain=default Account=kamasteve User= Time=1468929972 IPAddr=196.6.218.103
+[INFO_|07/19 08:06:30|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.103]
+[INFO_|07/19 08:06:30|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=58.1, Free=16.9, Used=41.2 [9%]
+[INFO_|07/19 08:06:30|Audit.userLoginOK:172] Login(OK): Time=1468929990 Domain=default Account=sysadmin User=admin IP=196.6.218.103
+[ERROR|07/19 08:07:20|SendMail.GetSendMailArgs_class:110] Class 'org.opengts.util.SendMailArgs': java.lang.NoClassDefFoundError: javax/mail/internet/AddressException
+[WARN_|07/19 08:07:20|SendMail.getEMailAddress:1625] Unable to get SendMailArgs class (javax.mail.jar installed?)
+[WARN_|07/19 08:07:20|AccountInfo.writePage:225] Contact EMail address is invalid: kamasteve13@gmail.com
+[ERROR|07/19 08:07:59|SendMail.GetSendMailArgs_class:110] Class 'org.opengts.util.SendMailArgs': java.lang.NoClassDefFoundError: javax/mail/internet/AddressException
+[INFO_|07/19 09:01:39|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/19 09:01:40|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/19 09:01:40|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/19 09:01:40|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/19 09:01:40|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/19 09:01:40|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/19 09:01:40|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=58.1, Free=19.7, Used=38.3 [8%]
+[INFO_|07/19 09:01:41|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/19 09:09:21|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/19 09:09:22|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/19 09:09:22|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/19 09:09:22|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/19 09:09:23|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/19 09:09:23|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/19 09:09:23|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=58.1, Free=32.5, Used=25.6 [5%]
+[INFO_|07/19 09:09:25|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/19 09:15:35|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/19 09:15:36|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/19 09:15:36|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/19 09:15:36|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/19 09:15:36|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/19 09:15:36|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/19 09:15:36|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=64.3, Free=19.8, Used=44.6 [9%]
+[INFO_|07/19 09:15:38|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/19 09:16:34|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.103]
+[INFO_|07/19 09:16:34|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=64.3, Free=23.8, Used=40.5 [8%]
+[INFO_|07/19 09:16:34|Audit.userLoginOK:172] Login(OK): Time=1468934194 Domain=default Account=sysadmin User=admin IP=196.6.218.103
+[INFO_|07/19 09:20:48|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/19 09:20:49|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/19 09:20:49|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/19 09:20:49|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/19 09:20:50|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/19 09:20:50|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/19 09:20:50|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=64.3, Free=37.5, Used=26.9 [6%]
+[INFO_|07/19 09:20:51|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/19 09:21:07|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.103]
+[INFO_|07/19 09:21:07|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=28.8, Used=36.7 [8%]
+[INFO_|07/19 09:21:07|Audit.userLoginOK:172] Login(OK): Time=1468934467 Domain=default Account=sysadmin User=admin IP=196.6.218.103
+[INFO_|07/19 09:22:00|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.103]
+[INFO_|07/19 09:22:00|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=22.9, Used=42.6 [9%]
+[INFO_|07/19 09:22:00|Audit.userLoginOK:172] Login(OK): Time=1468934520 Domain=default Account=sysadmin User=admin IP=196.6.218.103
+[INFO_|07/19 17:43:43|DBConnection.closeAllConnections:418] Closed all open DBConnections: 0
+[INFO_|07/19 17:43:44|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/19 17:43:44|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/19 17:43:44|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/19 17:43:45|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/19 17:43:45|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/19 17:43:45|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=14.8, Used=50.7 [11%]
+[INFO_|07/19 17:43:46|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/19 17:44:11|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.97.217.199]
+[INFO_|07/19 17:44:11|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=25.1, Used=40.4 [8%]
+[INFO_|07/19 17:44:11|Audit.userLoginOK:172] Login(OK): Time=1468964651 Domain=default Account=sysadmin User=admin IP=196.97.217.199
+[INFO_|07/20 16:27:00|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.104.17.21]
+[INFO_|07/20 16:27:00|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=32.6, Used=33.0 [7%]
+[INFO_|07/20 16:27:00|Audit.userLoginOK:172] Login(OK): Time=1469046420 Domain=default Account=sysadmin User=admin IP=196.104.17.21
+[INFO_|07/20 16:27:34|SysAdminAccounts$1.countSession:277] Logged-in User: sysadmin,admin
+[INFO_|07/20 16:41:42|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/20 16:41:43|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/20 16:41:43|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/20 16:41:43|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/20 16:41:44|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/20 16:41:44|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/20 16:41:44|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=41.7, Used=23.8 [5%]
+[INFO_|07/20 16:41:45|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/20 16:41:56|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.104.17.21]
+[INFO_|07/20 16:41:56|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=29.5, Used=36.0 [7%]
+[INFO_|07/20 16:41:56|Audit.userLoginOK:172] Login(OK): Time=1469047316 Domain=default Account=sysadmin User=admin IP=196.104.17.21
+[INFO_|07/20 16:46:05|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/20 16:46:06|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/20 16:46:06|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/20 16:46:06|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/20 16:46:06|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/20 16:46:06|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/20 16:46:06|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=23.8, Used=41.7 [9%]
+[INFO_|07/20 16:46:07|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/20 16:46:11|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.104.17.21]
+[INFO_|07/20 16:46:11|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=31.3, Used=34.2 [7%]
+[INFO_|07/20 16:46:11|Audit.userLoginOK:172] Login(OK): Time=1469047571 Domain=default Account=sysadmin User=admin IP=196.104.17.21
+[INFO_|07/20 16:56:17|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/20 16:56:18|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/20 16:56:18|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/20 16:56:18|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/20 16:56:19|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/20 16:56:19|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/20 16:56:19|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=23.2, Used=42.4 [9%]
+[INFO_|07/20 16:56:20|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/20 17:02:40|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/20 17:02:41|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/20 17:02:41|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/20 17:02:41|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/20 17:02:42|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/20 17:02:42|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/20 17:02:42|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=28.8, Used=36.7 [8%]
+[INFO_|07/20 17:02:43|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/20 17:10:53|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/20 17:10:54|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/20 17:10:54|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/20 17:10:54|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/20 17:10:55|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/20 17:10:55|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/20 17:10:55|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=27.0, Used=38.5 [8%]
+[INFO_|07/20 17:10:56|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/20 17:13:17|Track._doWork:1336] Invalid Password for Account: sysadmin
+[INFO_|07/20 17:13:17|Track._doWork:1364] Login[Failed]: Domain=default Account=sysadmin User=admin Time=1469049196 IPAddr=196.104.17.21
+[INFO_|07/20 17:13:17|Audit.userLoginFailed:184] Login(Failed): Time=1469049197 Domain=default Account=sysadmin User=admin IP=196.104.17.21
+[INFO_|07/20 17:19:36|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/20 17:19:37|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/20 17:19:37|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/20 17:19:37|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/20 17:19:37|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/20 17:19:37|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/20 17:19:37|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=28.3, Used=37.3 [8%]
+[INFO_|07/20 17:19:38|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/20 17:26:48|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/20 17:26:49|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/20 17:26:49|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/20 17:26:49|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/20 17:26:50|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/20 17:26:50|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/20 17:26:50|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=13.5, Used=52.0 [11%]
+[INFO_|07/20 17:26:51|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/20 17:29:04|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.104.17.21]
+[INFO_|07/20 17:29:04|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=19.2, Used=46.4 [10%]
+[INFO_|07/20 17:29:05|Audit.userLoginOK:172] Login(OK): Time=1469050145 Domain=default Account=sysadmin User=admin IP=196.104.17.21
+[INFO_|07/20 17:37:41|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/20 17:37:42|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/20 17:37:42|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/20 17:37:42|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/20 17:37:42|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/20 17:37:42|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/20 17:37:42|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=36.4, Used=29.1 [6%]
+[INFO_|07/20 17:37:44|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/20 17:38:06|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.104.17.21]
+[INFO_|07/20 17:38:06|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=21.4, Used=44.1 [9%]
+[INFO_|07/20 17:38:06|Audit.userLoginOK:172] Login(OK): Time=1469050686 Domain=default Account=sysadmin User=admin IP=196.104.17.21
+[INFO_|07/20 17:42:24|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/20 17:42:25|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/20 17:42:25|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/20 17:42:25|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/20 17:42:25|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/20 17:42:25|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/20 17:42:25|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=15.5, Used=50.0 [10%]
+[INFO_|07/20 17:42:26|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/20 18:01:56|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/20 18:01:57|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/20 18:01:57|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/20 18:01:57|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/20 18:01:58|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/20 18:01:58|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/20 18:01:58|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=37.9, Used=27.7 [6%]
+[INFO_|07/20 18:01:59|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/20 18:02:43|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.104.17.21]
+[INFO_|07/20 18:02:43|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=23.6, Used=41.9 [9%]
+[INFO_|07/20 18:02:43|Audit.userLoginOK:172] Login(OK): Time=1469052163 Domain=default Account=sysadmin User=admin IP=196.104.17.21
+[WARN_|07/20 18:03:28|ForgotPassword.writePage:493] 
+[INFO_|07/20 18:04:43|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.104.17.21]
+[INFO_|07/20 18:04:43|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=18.9, Used=46.7 [10%]
+[INFO_|07/20 18:04:43|Audit.userLoginOK:172] Login(OK): Time=1469052283 Domain=default Account=sysadmin User=admin IP=196.104.17.21
+[INFO_|07/20 18:09:02|Track._doWork:1156] Account does not exist: hv
+[INFO_|07/20 18:09:02|Track._doWork:1166] Login[Failed]: Domain=default Account=hv User= Time=1469052542 IPAddr=196.104.17.21
+[INFO_|07/20 18:09:16|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.104.17.21]
+[INFO_|07/20 18:09:16|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=33.0, Used=32.5 [7%]
+[INFO_|07/20 18:09:16|Audit.userLoginOK:172] Login(OK): Time=1469052556 Domain=default Account=sysadmin User=admin IP=196.104.17.21
+[INFO_|07/22 06:33:49|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/22 06:33:50|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/22 06:33:50|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/22 06:33:50|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/22 06:33:50|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/22 06:33:50|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/22 06:33:50|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=9.3, Used=56.3 [12%]
+[INFO_|07/22 06:33:51|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/22 06:42:31|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/22 06:42:32|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/22 06:42:32|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/22 06:42:32|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/22 06:42:33|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/22 06:42:33|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/22 06:42:33|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=40.9, Used=24.6 [5%]
+[INFO_|07/22 06:42:34|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/22 06:48:41|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.103]
+[INFO_|07/22 06:48:41|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=25.7, Used=39.9 [8%]
+[INFO_|07/22 06:48:41|Audit.userLoginOK:172] Login(OK): Time=1469184521 Domain=default Account=sysadmin User=admin IP=196.6.218.103
+[INFO_|07/22 07:06:34|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/22 07:06:35|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/22 07:06:35|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/22 07:06:35|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/22 07:06:36|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/22 07:06:36|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/22 07:06:36|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=16.7, Used=48.9 [10%]
+[INFO_|07/22 07:06:37|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[WARN_|07/22 07:16:36|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 597192 ms
+[ERROR|07/22 07:16:36|Resource.getPrivateLabelPropertiesForHost:945] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42/track/Track
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42/track/Track' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:942)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doGet(Track.java:315)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.GeneratedConstructorAccessor25.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 49 more
+[WARN_|07/22 07:16:36|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/22 07:16:36|Resource.getPrivateLabelPropertiesForHost:958] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:955)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doGet(Track.java:315)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.GeneratedConstructorAccessor25.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 49 more
+[INFO_|07/22 07:16:37|DBConnection.closeAllConnections:418] Closed all open DBConnections: 0
+[INFO_|07/22 07:16:38|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/22 07:16:38|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/22 07:16:38|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/22 07:16:39|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/22 07:16:39|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/22 07:16:39|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=65.5, Free=24.8, Used=40.7 [8%]
+[INFO_|07/22 07:16:40|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[WARN_|07/22 07:16:45|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/22 07:16:45|Resource.getPrivateLabelPropertiesForHost:945] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42/track/Track
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42/track/Track' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:942)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doGet(Track.java:315)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.GeneratedConstructorAccessor25.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 49 more
+[WARN_|07/22 07:16:45|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/22 07:16:45|Resource.getPrivateLabelPropertiesForHost:958] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:955)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doGet(Track.java:315)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.GeneratedConstructorAccessor30.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.GeneratedConstructorAccessor25.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 49 more
+[WARN_|07/22 07:20:47|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/22 07:20:47|Resource.getPrivateLabelPropertiesForHost:945] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42/track/Track
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42/track/Track' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:942)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doGet(Track.java:315)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.GeneratedConstructorAccessor30.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.GeneratedConstructorAccessor25.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 49 more
+[WARN_|07/22 07:20:47|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/22 07:20:47|Resource.getPrivateLabelPropertiesForHost:958] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:955)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doGet(Track.java:315)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.GeneratedConstructorAccessor30.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.GeneratedConstructorAccessor25.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 49 more
+[WARN_|07/22 08:26:57|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/22 08:26:57|Resource.getPrivateLabelPropertiesForHost:945] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42/track/Track
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42/track/Track' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:942)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doGet(Track.java:315)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.GeneratedConstructorAccessor30.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.GeneratedConstructorAccessor25.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 49 more
+[WARN_|07/22 08:26:57|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/22 08:26:57|Resource.getPrivateLabelPropertiesForHost:958] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:955)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doGet(Track.java:315)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.GeneratedConstructorAccessor30.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.GeneratedConstructorAccessor25.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 49 more
+[INFO_|07/22 08:45:39|DBConnection.closeAllConnections:418] Closed all open DBConnections: 0
+[INFO_|07/22 08:45:40|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/22 08:45:40|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/22 08:45:40|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/22 09:46:09|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/22 09:46:09|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/22 09:46:09|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=17.1, Free=6.9, Used=10.2 [2%]
+[INFO_|07/22 09:46:11|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/22 10:06:13|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|07/22 10:06:14|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/22 10:06:14|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/22 10:06:14|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|07/22 10:06:15|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|07/22 10:06:15|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|07/22 10:06:15|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=40.2, Free=13.6, Used=26.5 [6%]
+[INFO_|07/22 10:06:16|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|07/22 10:38:42|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.103]
+[INFO_|07/22 10:38:42|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=46.1, Free=10.6, Used=35.5 [7%]
+[INFO_|07/22 10:38:42|Audit.userLoginOK:172] Login(OK): Time=1469198322 Domain=default Account=sysadmin User=admin IP=196.6.218.103
+[INFO_|07/23 02:59:43|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.102.120.139]
+[INFO_|07/23 02:59:43|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=46.1, Free=15.4, Used=30.7 [6%]
+[INFO_|07/23 02:59:43|Audit.userLoginOK:172] Login(OK): Time=1469257183 Domain=default Account=sysadmin User=admin IP=196.102.120.139
+[WARN_|07/25 10:51:11|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 2566456 ms
+[WARN_|07/30 06:03:37|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/30 06:03:37|Resource.getPrivateLabelPropertiesForHost:945] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42/track/Track
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42/track/Track' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:942)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doGet(Track.java:315)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 50 more
+[WARN_|07/30 06:03:37|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/30 06:03:37|Resource.getPrivateLabelPropertiesForHost:958] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:955)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doGet(Track.java:315)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 50 more
+[WARN_|07/30 06:03:48|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/30 06:03:48|Resource.getPrivateLabelPropertiesForHost:945] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42/track/Track
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42/track/Track' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:942)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doPost(Track.java:326)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:650)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 50 more
+[WARN_|07/30 06:03:48|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/30 06:03:48|Resource.getPrivateLabelPropertiesForHost:958] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:955)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doPost(Track.java:326)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:650)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 50 more
+[WARN_|07/30 06:03:48|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/30 06:03:48|Track._doWork:1236] Exception: Error reading Account: sysadmin
+org.opengts.dbtools.DBException: Record existance Account='sysadmin' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Account.getAccount(Account.java:4009)
+	at org.opengts.war.track.Track._doWork(Track.java:1154)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:445)
+	at org.opengts.war.track.Track.doPost(Track.java:326)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:650)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.GeneratedConstructorAccessor12.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 49 more
+[WARN_|07/30 06:03:53|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/30 06:03:53|Resource.getPrivateLabelPropertiesForHost:945] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42/track/Track
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42/track/Track' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:942)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doGet(Track.java:315)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.GeneratedConstructorAccessor12.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 49 more
+[WARN_|07/30 06:03:53|DBConnection.parseCommunicationsException:290] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|07/30 06:03:53|Resource.getPrivateLabelPropertiesForHost:958] Exception: Error loading Resource: sysadmin/privatelabel.properties:104.236.63.42
+org.opengts.dbtools.DBException: Record existance Resource='sysadmin,privatelabel.properties:104.236.63.42' [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:414)
+	at org.opengts.db.tables.Resource._getResource(Resource.java:609)
+	at org.opengts.db.tables.Resource.getPrivateLabelPropertiesForHost(Resource.java:955)
+	at org.opengts.war.track.Track._doWork_wrapper(Track.java:415)
+	at org.opengts.war.track.Track.doGet(Track.java:315)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.opengts.war.track.CharacterEncodingFilter.doFilter(CharacterEncodingFilter.java:75)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:218)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:442)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1082)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:623)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.GeneratedConstructorAccessor12.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:571)
+	at java.sql.DriverManager.getConnection(DriverManager.java:215)
+	at org.opengts.dbtools.DBConnection.getConnection(DBConnection.java:752)
+	at org.opengts.dbtools.DBConnection.createStatement(DBConnection.java:888)
+	at org.opengts.dbtools.DBConnection._execute(DBConnection.java:992)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:960)
+	at org.opengts.dbtools.DBConnection.execute(DBConnection.java:912)
+	at org.opengts.dbtools.DBRecordKey._exists(DBRecordKey.java:506)
+	at org.opengts.dbtools.DBRecordKey.exists(DBRecordKey.java:410)
+	... 29 more
+Caused by: java.net.ConnectException: Connection refused
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 49 more
+[INFO_|07/30 06:04:26|DBConnection.closeAllConnections:418] Closed all open DBConnections: 0
+[INFO_|07/30 06:04:27|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|07/30 06:04:27|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|07/30 06:04:27|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/01 05:18:15|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/01 05:18:15|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/01 05:18:15|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=17.8, Free=7.4, Used=10.4 [2%]
+[INFO_|08/01 05:18:17|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/01 05:23:09|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.48.34.96]
+[INFO_|08/01 05:23:09|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=42.3, Free=23.0, Used=19.3 [4%]
+[INFO_|08/01 05:23:09|Audit.userLoginOK:172] Login(OK): Time=1470043389 Domain=default Account=sysadmin User=admin IP=105.48.34.96
+[INFO_|08/01 06:44:14|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.48.34.96]
+[INFO_|08/01 06:44:14|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=42.3, Free=20.6, Used=21.7 [5%]
+[INFO_|08/01 06:44:14|Audit.userLoginOK:172] Login(OK): Time=1470048254 Domain=default Account=sysadmin User=admin IP=105.48.34.96
+[INFO_|08/02 06:18:38|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.48.52.68]
+[INFO_|08/02 06:18:38|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=42.3, Free=17.7, Used=24.6 [5%]
+[INFO_|08/02 06:18:38|Audit.userLoginOK:172] Login(OK): Time=1470133118 Domain=default Account=sysadmin User=admin IP=105.48.52.68
+[INFO_|08/02 15:12:30|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.230.80.247]
+[INFO_|08/02 15:12:30|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=42.3, Free=11.7, Used=30.6 [6%]
+[INFO_|08/02 15:12:30|Audit.userLoginOK:172] Login(OK): Time=1470165150 Domain=default Account=sysadmin User=admin IP=105.230.80.247
+[WARN_|08/02 15:14:38|OpenLayers.getGeozoneSupportedPointCount:213] Geozone type not supported: 2
+[WARN_|08/02 15:14:55|OpenLayers.getGeozoneSupportedPointCount:213] Geozone type not supported: 2
+[WARN_|08/02 15:15:36|OpenLayers.getGeozoneSupportedPointCount:213] Geozone type not supported: 2
+[INFO_|08/02 15:20:02|SysAdminAccounts$1.countSession:277] Logged-in User: sysadmin,admin
+[INFO_|08/02 15:21:05|SysAdminAccounts$1.countSession:277] Logged-in User: sysadmin,admin
+[WARN_|08/02 15:21:34|ReportSpreadsheet.GetExcelSpreadsheetClass:68] Excel interface not supported: java.lang.ClassNotFoundException: org.opengts.util.ExcelTools$Spreadsheet
+[INFO_|08/02 16:18:53|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.230.217.61]
+[INFO_|08/02 16:18:53|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=42.3, Free=15.0, Used=27.3 [6%]
+[INFO_|08/02 16:18:53|Audit.userLoginOK:172] Login(OK): Time=1470169133 Domain=default Account=sysadmin User=admin IP=105.230.217.61
+[INFO_|08/02 16:33:04|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/02 16:33:05|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/02 16:33:05|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/02 16:33:05|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/02 16:33:06|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/02 16:33:06|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/02 16:33:06|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=42.3, Free=2.9, Used=39.4 [8%]
+[INFO_|08/02 16:33:07|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/02 16:33:44|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.230.217.61]
+[INFO_|08/02 16:33:44|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=48.9, Free=24.2, Used=24.6 [5%]
+[INFO_|08/02 16:33:44|Audit.userLoginOK:172] Login(OK): Time=1470170024 Domain=default Account=sysadmin User=admin IP=105.230.217.61
+[INFO_|08/02 16:59:27|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/02 16:59:28|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/02 16:59:28|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/02 16:59:28|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/04 16:22:57|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/04 16:22:57|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/04 16:22:57|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=37.2, Free=14.6, Used=22.6 [5%]
+[INFO_|08/04 16:22:59|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/04 16:29:19|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/04 16:29:20|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/04 16:29:20|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/04 16:29:20|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/04 16:29:20|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/04 16:29:20|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/04 16:29:20|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=5.7, Used=41.4 [9%]
+[INFO_|08/04 16:29:22|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/04 16:29:48|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.231.193.221]
+[INFO_|08/04 16:29:48|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=12.7, Used=34.4 [7%]
+[INFO_|08/04 16:29:48|Audit.userLoginOK:172] Login(OK): Time=1470342588 Domain=default Account=sysadmin User=admin IP=105.231.193.221
+[INFO_|08/04 16:32:27|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.231.193.221]
+[INFO_|08/04 16:32:27|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=19.6, Used=27.5 [6%]
+[INFO_|08/04 16:32:27|Audit.userLoginOK:172] Login(OK): Time=1470342747 Domain=default Account=sysadmin User=admin IP=105.231.193.221
+[INFO_|08/04 16:33:58|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.231.193.221]
+[INFO_|08/04 16:33:58|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=17.2, Used=29.9 [6%]
+[INFO_|08/04 16:33:58|Audit.userLoginOK:172] Login(OK): Time=1470342838 Domain=default Account=sysadmin User=admin IP=105.231.193.221
+[INFO_|08/04 16:40:53|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/04 16:40:54|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/04 16:40:54|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/04 16:40:54|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/04 16:40:55|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/04 16:40:55|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/04 16:40:55|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=25.2, Used=21.9 [5%]
+[INFO_|08/04 16:40:56|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/04 16:41:27|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.231.193.221]
+[INFO_|08/04 16:41:27|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=20.3, Used=26.8 [6%]
+[INFO_|08/04 16:41:27|Audit.userLoginOK:172] Login(OK): Time=1470343287 Domain=default Account=sysadmin User=admin IP=105.231.193.221
+[INFO_|08/04 16:43:31|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.231.193.221]
+[INFO_|08/04 16:43:31|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=14.2, Used=33.0 [7%]
+[INFO_|08/04 16:43:31|Audit.userLoginOK:172] Login(OK): Time=1470343411 Domain=default Account=sysadmin User=admin IP=105.231.193.221
+[INFO_|08/04 16:55:24|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.231.193.221]
+[INFO_|08/04 16:55:24|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=18.6, Used=28.6 [6%]
+[INFO_|08/04 16:55:24|Audit.userLoginOK:172] Login(OK): Time=1470344124 Domain=default Account=sysadmin User=admin IP=105.231.193.221
+[INFO_|08/08 10:00:17|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.47]
+[INFO_|08/08 10:00:17|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=16.3, Used=30.8 [6%]
+[INFO_|08/08 10:00:17|Audit.userLoginOK:172] Login(OK): Time=1470664817 Domain=default Account=sysadmin User=admin IP=196.6.218.47
+[INFO_|08/09 08:11:12|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.47]
+[INFO_|08/09 08:11:12|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=9.1, Used=38.0 [8%]
+[INFO_|08/09 08:11:12|Audit.userLoginOK:172] Login(OK): Time=1470744672 Domain=default Account=sysadmin User=admin IP=196.6.218.47
+[INFO_|08/09 08:11:32|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.47]
+[INFO_|08/09 08:11:32|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=7.8, Used=39.3 [8%]
+[INFO_|08/09 08:11:32|Audit.userLoginOK:172] Login(OK): Time=1470744692 Domain=default Account=sysadmin User=admin IP=196.6.218.47
+[INFO_|08/09 08:12:00|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.47]
+[INFO_|08/09 08:12:00|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=19.2, Used=27.9 [6%]
+[INFO_|08/09 08:12:00|Audit.userLoginOK:172] Login(OK): Time=1470744720 Domain=default Account=sysadmin User=admin IP=196.6.218.47
+[INFO_|08/09 08:38:48|SysAdminAccounts$1.countSession:277] Logged-in User: sysadmin,admin
+[INFO_|08/09 08:38:48|SysAdminAccounts$1.countSession:277] Logged-in User: sysadmin,admin
+[INFO_|08/09 08:38:48|SysAdminAccounts$1.countSession:277] Logged-in User: sysadmin,admin
+[INFO_|08/11 12:29:55|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.21.32.22]
+[INFO_|08/11 12:29:55|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=17.1, Used=30.0 [6%]
+[INFO_|08/11 12:29:55|Audit.userLoginOK:172] Login(OK): Time=1470932995 Domain=default Account=sysadmin User=admin IP=105.21.32.22
+[INFO_|08/11 12:30:46|RequestProperties.getMapEvents:1738] No devices ...
+[WARN_|08/11 12:31:34|ReportSpreadsheet.GetExcelSpreadsheetClass:68] Excel interface not supported: java.lang.ClassNotFoundException: org.opengts.util.ExcelTools$Spreadsheet
+[WARN_|08/11 12:32:20|OpenLayers.getGeozoneSupportedPointCount:213] Geozone type not supported: 2
+[WARN_|08/11 12:36:37|OpenLayers.getGeozoneSupportedPointCount:213] Geozone type not supported: 2
+[WARN_|08/11 12:36:45|OpenLayers.getGeozoneSupportedPointCount:213] Geozone type not supported: 2
+[WARN_|08/11 12:36:53|OpenLayers.getGeozoneSupportedPointCount:213] Geozone type not supported: 2
+[INFO_|08/11 12:38:30|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 105.21.32.22]
+[INFO_|08/11 12:38:30|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=47.1, Free=7.4, Used=39.7 [8%]
+[INFO_|08/11 12:38:30|Audit.userLoginOK:172] Login(OK): Time=1470933510 Domain=default Account=sysadmin User=admin IP=105.21.32.22
+[INFO_|08/16 14:09:58|DBConnection.closeAllConnections:418] Closed all open DBConnections: 0
+[INFO_|08/16 14:09:59|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/16 14:09:59|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/16 14:09:59|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/16 14:14:54|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/16 14:14:54|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/16 14:14:54|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=17.1, Free=6.8, Used=10.3 [2%]
+[INFO_|08/16 14:14:56|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/16 15:21:18|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 154.78.103.246]
+[INFO_|08/16 15:21:18|OSTools.printMemoryUsage:1214] Memory-Mb: Max=481.4, Total=39.1, Free=17.5, Used=21.6 [4%]
+[INFO_|08/16 15:21:18|Audit.userLoginOK:172] Login(OK): Time=1471375278 Domain=default Account=sysadmin User=admin IP=154.78.103.246
+[INFO_|08/17 03:59:46|DBConnection.closeAllConnections:418] Closed all open DBConnections: 0
+[INFO_|08/17 03:59:47|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 03:59:47|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 03:59:47|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 09:26:32|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 09:26:32|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 09:26:32|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=58.0, Free=17.7, Used=40.3 [7%]
+[INFO_|08/17 09:26:34|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 09:48:58|DBConnection.closeAllConnections:418] Closed all open DBConnections: 3
+[INFO_|08/17 09:48:59|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 09:48:59|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 09:48:59|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 09:49:00|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 09:49:00|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 09:49:00|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=150.5, Free=96.8, Used=53.7 [9%]
+[INFO_|08/17 09:49:01|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 09:55:21|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/17 09:55:22|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 09:55:22|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 09:55:22|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 09:55:23|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 09:55:23|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 09:55:23|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=153.5, Free=38.6, Used=114.9 [19%]
+[INFO_|08/17 09:55:24|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 10:05:44|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/17 10:05:45|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 10:05:45|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 10:05:45|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 10:05:45|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 10:05:45|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 10:05:45|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=224.5, Free=91.8, Used=132.7 [22%]
+[INFO_|08/17 10:05:46|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 10:14:46|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/17 10:14:47|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 10:14:47|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 10:14:47|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 10:14:48|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 10:14:48|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 10:14:48|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=220.5, Free=100.4, Used=120.1 [20%]
+[INFO_|08/17 10:14:49|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 10:20:59|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/17 10:21:00|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 10:21:00|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 10:21:00|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 10:21:01|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 10:21:01|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 10:21:01|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=215.5, Free=112.0, Used=103.5 [17%]
+[INFO_|08/17 10:21:02|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 10:27:02|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/17 10:27:03|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 10:27:03|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 10:27:03|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 10:27:04|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 10:27:04|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 10:27:04|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=209.0, Free=120.9, Used=88.1 [15%]
+[INFO_|08/17 10:27:05|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 10:30:25|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/17 10:30:26|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 10:30:26|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 10:30:26|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 10:30:26|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 10:30:26|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 10:30:26|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=210.0, Free=133.5, Used=76.5 [13%]
+[INFO_|08/17 10:30:27|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 10:32:19|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.47]
+[INFO_|08/17 10:32:19|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=210.0, Free=77.6, Used=132.4 [22%]
+[INFO_|08/17 10:32:19|Audit.userLoginOK:172] Login(OK): Time=1471444339 Domain=default Account=sysadmin User=admin IP=196.6.218.47
+[INFO_|08/17 10:37:45|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.47]
+[INFO_|08/17 10:37:45|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=210.0, Free=69.7, Used=140.3 [24%]
+[INFO_|08/17 10:37:45|Audit.userLoginOK:172] Login(OK): Time=1471444665 Domain=default Account=sysadmin User=admin IP=196.6.218.47
+[INFO_|08/17 10:40:07|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/17 10:40:08|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 10:40:08|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 10:40:08|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 10:40:09|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 10:40:09|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 10:40:09|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=193.5, Free=142.9, Used=50.6 [9%]
+[INFO_|08/17 10:40:10|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 10:46:10|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/17 10:46:11|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 10:46:11|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 10:46:11|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 10:46:12|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 10:46:12|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 10:46:12|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=198.5, Free=128.2, Used=70.3 [12%]
+[INFO_|08/17 10:46:12|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 10:47:40|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.47]
+[INFO_|08/17 10:47:40|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=198.5, Free=73.8, Used=124.7 [21%]
+[INFO_|08/17 10:47:40|Audit.userLoginOK:172] Login(OK): Time=1471445260 Domain=default Account=sysadmin User=admin IP=196.6.218.47
+[INFO_|08/17 10:55:03|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/17 10:55:04|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 10:55:04|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 10:55:04|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 10:55:04|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 10:55:04|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 10:55:04|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=181.0, Free=100.7, Used=80.3 [14%]
+[INFO_|08/17 10:55:05|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 10:55:29|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.47]
+[INFO_|08/17 10:55:29|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=181.0, Free=46.0, Used=135.0 [23%]
+[INFO_|08/17 10:55:29|Audit.userLoginOK:172] Login(OK): Time=1471445729 Domain=default Account=sysadmin User=admin IP=196.6.218.47
+[INFO_|08/17 10:57:50|Track._doWork:1414] Login SysAdmin: sysadmin/admin [From 196.6.218.47]
+[INFO_|08/17 10:57:50|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=181.0, Free=35.7, Used=145.3 [25%]
+[INFO_|08/17 10:57:50|Audit.userLoginOK:172] Login(OK): Time=1471445870 Domain=default Account=sysadmin User=admin IP=196.6.218.47
+[WARN_|08/17 11:14:17|ReportSpreadsheet.GetExcelSpreadsheetClass:68] Excel interface not supported: java.lang.ClassNotFoundException: org.opengts.util.ExcelTools$Spreadsheet
+[INFO_|08/17 11:15:00|Track._doWork:1336] Invalid Password for Account: demo
+[INFO_|08/17 11:15:00|Track._doWork:1364] Login[Failed]: Domain=default Account=demo User=admin Time=1471446900 IPAddr=196.6.218.47
+[INFO_|08/17 11:15:00|Audit.userLoginFailed:184] Login(Failed): Time=1471446900 Domain=default Account=demo User=admin IP=196.6.218.47
+[INFO_|08/17 11:15:29|Track._doWork:1416] Login Account/User: demo/admin [From 196.6.218.47]
+[INFO_|08/17 11:15:29|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=181.0, Free=18.0, Used=163.0 [28%]
+[INFO_|08/17 11:15:29|Audit.userLoginOK:172] Login(OK): Time=1471446929 Domain=default Account=demo User=admin IP=196.6.218.47
+[INFO_|08/17 11:16:05|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/17 11:16:06|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 11:16:06|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 11:16:06|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 11:16:07|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 11:16:07|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 11:16:07|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=184.0, Free=65.4, Used=118.6 [20%]
+[INFO_|08/17 11:16:07|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 11:16:57|DBConnection.closeAllConnections:418] Closed all open DBConnections: 0
+[INFO_|08/17 11:16:58|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 11:16:58|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 11:16:58|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 11:16:59|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 11:16:59|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 11:16:59|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=174.5, Free=53.0, Used=121.5 [21%]
+[INFO_|08/17 11:17:00|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 11:27:50|DBConnection.closeAllConnections:418] Closed all open DBConnections: 0
+[INFO_|08/17 11:27:51|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 11:27:51|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 11:27:51|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 11:27:51|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 11:27:51|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 11:27:51|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=175.5, Free=54.8, Used=120.7 [20%]
+[INFO_|08/17 11:27:52|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 11:28:19|Track._doWork:1416] Login Account/User: demo/admin [From 196.6.218.47]
+[INFO_|08/17 11:28:19|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=162.0, Free=84.8, Used=77.2 [13%]
+[INFO_|08/17 11:28:19|Audit.userLoginOK:172] Login(OK): Time=1471447699 Domain=default Account=demo User=admin IP=196.6.218.47
+[INFO_|08/17 11:38:42|DBConnection.closeAllConnections:418] Closed all open DBConnections: 1
+[INFO_|08/17 11:38:43|RTConfigContextListener.contextDestroyed:317] Remaining pool threads [0]: 0
+[INFO_|08/17 11:38:43|RTConfigContextListener.contextDestroyed:320] ... Servlet Context destroyed: TrackWar
+[INFO_|08/17 11:38:43|RTConfigContextListener.contextDestroyed:321] -----------------------------------------------
+[INFO_|08/17 11:38:44|StartupInit.preInitialization:144] Version: 2.6.2
+[INFO_|08/17 11:38:44|StartupInit.preInitialization:148] GTS_HOME: /usr/local/OpenGTS_2.6.2
+[INFO_|08/17 11:38:44|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=158.0, Free=126.8, Used=31.2 [5%]
+[INFO_|08/17 11:38:45|RTConfigContextListener.contextInitialized:285] java.awt.headless=false
+[INFO_|08/17 12:21:22|Track._doWork:1416] Login Account/User: admin/admin [From 196.6.218.47]
+[INFO_|08/17 12:21:22|OSTools.printMemoryUsage:1214] Memory-Mb: Max=592.0, Total=158.0, Free=60.4, Used=97.6 [16%]
+[INFO_|08/17 12:21:22|Audit.userLoginOK:172] Login(OK): Time=1471450882 Domain=default Account=admin User=admin IP=196.6.218.47

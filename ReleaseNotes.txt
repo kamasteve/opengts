@@ -1,0 +1,36 @@
+
+Version 2.6.2 [2016/06/10]
+- UPD: Updated Generics to support compiling with Java-7 without warning/errors.
+- NEW: Can now compile with either Tomcat-7 or Tomcat-8 without code mods.
+- NEW: Checkinstall now displays current Tomcat version in use.
+- NEW: Added additional status codes.
+- NEW: Added summary totals line to "Trip Report Detail".
+- NEW: Added support to Device.java for fuel tank #2 capacity.
+- NEW: Added "cargoTemp", "coolantPressure" columns to EventData table.
+- NEW: Added "sequence" column to GroupList table (to retain list order).
+- NEW: Added report total column to TripReport.
+- NEW: Added excessive failed login checks to Account/User login.
+- NEW: Added additional EventDataLayout/FieldLayout report column support.
+- UPD: Changed EventData table "sequence" column to unsigned-long.
+- DCS: astra] Update Astra DCS from Astra Telematics Limited.
+- FIX: Fixed "addtnlSelect_2" issue in EventData "getRangeEvents" to fix reports.
+- FIX: Added fix to detect stale/closed connections for MariaDB compatibility
+- FIX: Updated device last-ignition-state to check last ignition on/off times.
+- FIX: Fixed "gtsdmtp" compile issue.
+
+-----------------------------------------------------------------------------------
+
+Project Home Page:
+    http://www.opengts.org
+
+Download Latest Version from SourceForge:
+    https://sourceforge.net/projects/opengts/
+
+Documentation (installation/configuration, tutorials, FAQ):
+    http://www.opengts.org/FAQ.html
+    http://www.opengts.org/documentation.html
+
+GTS Enterprise:
+    http://www.geotelematic.com/gts.html
+    http://www.geotelematic.com/documentation.html
+
